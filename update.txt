@@ -1,4 +1,4 @@
-v5.10
+V6.50
 
 new menu colors
 melhorias no sistema de close
